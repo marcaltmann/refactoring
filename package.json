@@ -1,0 +1,15 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Marc Altmann <marcaltmann@posteo.de>",
+  "type": "module",
+  "main": "classes.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
